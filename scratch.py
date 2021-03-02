@@ -1,4 +1,4 @@
-#import numpy as np
+import numpy as np
 #import pandas as pd
 
 print(
@@ -8,7 +8,8 @@ print(
 print('Updated file on March 2 at 3:14pm and resubmit.')
 
 
-
+suml = np.sum([1,2,3,4,5])
+print(suml)
 
 
 
